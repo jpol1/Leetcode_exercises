@@ -13,9 +13,8 @@ class Solution(object):
                 for letter in range(len_w):
                     if word[letter] != dct[letter]:
                         counter += 1
-                        if counter > 2:
-                            break
-                res.append(queries[idx])
-                break
+                if counter <= 2:
+                    res.append(queries[idx])
+                    break
         return res
         
