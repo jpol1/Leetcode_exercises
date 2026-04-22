@@ -7,14 +7,16 @@ class Solution(object):
         """
         len_w = len(queries[0])
         res = []
-        for idx, word in enumerate(queries):
+        for word in queries:
             for dct in dictionary:
                 counter = 0
-                for letter in range(len_w):
-                    if word[letter] != dct[letter]:
+                for letter_w, letter_d in zip(word, dct):
+                    if letter_w != letter_d:
                         counter += 1
-                if counter <= 2:
-                    res.append(queries[idx])
+                        if counter > 2:
+                            break
+                else:            
+                    res.append(word)
                     break
         return res
         
