@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2769-find-the-maximum-achievable-number](https://github.com/jpol1/Leetcode_exercises/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/jpol1/Leetcode_exercises/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
