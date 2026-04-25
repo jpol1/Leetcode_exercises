@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/jpol1/Leetcode_exercises/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jpol1/Leetcode_exercises/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jpol1/Leetcode_exercises/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2942-find-words-containing-character](https://github.com/jpol1/Leetcode_exercises/tree/main/2942-find-words-containing-character/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/jpol1/Leetcode_exercises/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jpol1/Leetcode_exercises/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jpol1/Leetcode_exercises/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2942-find-words-containing-character](https://github.com/jpol1/Leetcode_exercises/tree/main/2942-find-words-containing-character/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
