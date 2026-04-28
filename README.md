@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2235-add-two-integers](https://github.com/jpol1/Leetcode_exercises/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/jpol1/Leetcode_exercises/tree/main/2469-convert-the-temperature/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/jpol1/Leetcode_exercises/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/jpol1/Leetcode_exercises/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
