@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jpol1/Leetcode_exercises/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jpol1/Leetcode_exercises/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2942-find-words-containing-character](https://github.com/jpol1/Leetcode_exercises/tree/main/2942-find-words-containing-character/) | Easy |
+| [3110-score-of-a-string](https://github.com/jpol1/Leetcode_exercises/tree/main/3110-score-of-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
