@@ -7,7 +7,7 @@ public:
             for (int j = 0; j<matrix[0].size(); j++) {
                 tmp_res += matrix[i][j];
             }
-            res.push_back(tmp_res);
+            res.emplace_back(tmp_res);
         }
         return res;
     }
