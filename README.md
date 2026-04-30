@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/jpol1/Leetcode_exercises/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jpol1/Leetcode_exercises/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jpol1/Leetcode_exercises/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jpol1/Leetcode_exercises/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/jpol1/Leetcode_exercises/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/jpol1/Leetcode_exercises/tree/main/2942-find-words-containing-character/) | Easy |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jpol1/Leetcode_exercises/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jpol1/Leetcode_exercises/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jpol1/Leetcode_exercises/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,4 +112,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jpol1/Leetcode_exercises/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jpol1/Leetcode_exercises/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 <!---LeetCode Topics End-->
