@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/jpol1/Leetcode_exercises/tree/main/0396-rotate-function/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2235-add-two-integers](https://github.com/jpol1/Leetcode_exercises/tree/main/2235-add-two-integers/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/jpol1/Leetcode_exercises/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/jpol1/Leetcode_exercises/tree/main/2469-convert-the-temperature/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/jpol1/Leetcode_exercises/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/jpol1/Leetcode_exercises/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -129,4 +130,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/jpol1/Leetcode_exercises/tree/main/2000-reverse-prefix-of-word/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2413-smallest-even-multiple](https://github.com/jpol1/Leetcode_exercises/tree/main/2413-smallest-even-multiple/) | Easy |
 <!---LeetCode Topics End-->
