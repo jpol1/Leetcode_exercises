@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jpol1/Leetcode_exercises/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0396-rotate-function](https://github.com/jpol1/Leetcode_exercises/tree/main/0396-rotate-function/) | Medium |
+| [1389-create-target-array-in-the-given-order](https://github.com/jpol1/Leetcode_exercises/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1534-count-good-triplets](https://github.com/jpol1/Leetcode_exercises/tree/main/1534-count-good-triplets/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jpol1/Leetcode_exercises/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/jpol1/Leetcode_exercises/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/jpol1/Leetcode_exercises/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jpol1/Leetcode_exercises/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Depth-First Search
