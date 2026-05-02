@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2469-convert-the-temperature](https://github.com/jpol1/Leetcode_exercises/tree/main/2469-convert-the-temperature/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/jpol1/Leetcode_exercises/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/jpol1/Leetcode_exercises/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/jpol1/Leetcode_exercises/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3516-find-closest-person](https://github.com/jpol1/Leetcode_exercises/tree/main/3516-find-closest-person/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jpol1/Leetcode_exercises/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2942-find-words-containing-character](https://github.com/jpol1/Leetcode_exercises/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/jpol1/Leetcode_exercises/tree/main/3110-score-of-a-string/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/jpol1/Leetcode_exercises/tree/main/3280-convert-date-to-binary/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
