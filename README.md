@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jpol1/Leetcode_exercises/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/jpol1/Leetcode_exercises/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/jpol1/Leetcode_exercises/tree/main/2942-find-words-containing-character/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1389-create-target-array-in-the-given-order](https://github.com/jpol1/Leetcode_exercises/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/jpol1/Leetcode_exercises/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jpol1/Leetcode_exercises/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
