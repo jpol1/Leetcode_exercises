@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jpol1/Leetcode_exercises/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jpol1/Leetcode_exercises/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [3668-restore-finishing-order](https://github.com/jpol1/Leetcode_exercises/tree/main/3668-restore-finishing-order/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jpol1/Leetcode_exercises/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/jpol1/Leetcode_exercises/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/jpol1/Leetcode_exercises/tree/main/2942-find-words-containing-character/) | Easy |
+| [3668-restore-finishing-order](https://github.com/jpol1/Leetcode_exercises/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
