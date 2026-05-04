@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jpol1/Leetcode_exercises/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0796-rotate-string](https://github.com/jpol1/Leetcode_exercises/tree/main/0796-rotate-string/) | Easy |
+| [1528-shuffle-string](https://github.com/jpol1/Leetcode_exercises/tree/main/1528-shuffle-string/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jpol1/Leetcode_exercises/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/jpol1/Leetcode_exercises/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jpol1/Leetcode_exercises/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/jpol1/Leetcode_exercises/tree/main/0396-rotate-function/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/jpol1/Leetcode_exercises/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1528-shuffle-string](https://github.com/jpol1/Leetcode_exercises/tree/main/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/jpol1/Leetcode_exercises/tree/main/1534-count-good-triplets/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jpol1/Leetcode_exercises/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/jpol1/Leetcode_exercises/tree/main/1920-build-array-from-permutation/) | Easy |
