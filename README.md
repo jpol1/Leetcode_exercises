@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/jpol1/Leetcode_exercises/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/jpol1/Leetcode_exercises/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/jpol1/Leetcode_exercises/tree/main/0788-rotated-digits/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/jpol1/Leetcode_exercises/tree/main/0048-rotate-image/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jpol1/Leetcode_exercises/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0396-rotate-function](https://github.com/jpol1/Leetcode_exercises/tree/main/0396-rotate-function/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/jpol1/Leetcode_exercises/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/jpol1/Leetcode_exercises/tree/main/0048-rotate-image/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Prefix Sum
