@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jpol1/Leetcode_exercises/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/jpol1/Leetcode_exercises/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
