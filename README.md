@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0061-rotate-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0061-rotate-list/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/jpol1/Leetcode_exercises/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
