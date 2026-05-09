@@ -85,12 +85,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0100-same-tree/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -125,11 +127,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Dynamic Programming
