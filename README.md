@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0100-same-tree/) | Easy |
+| [0112-path-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/0112-path-sum/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
@@ -140,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Dynamic Programming
