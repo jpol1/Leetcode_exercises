@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0100-same-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/jpol1/Leetcode_exercises/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/0112-path-sum/) | Easy |
 | [1306-jump-game-iii](https://github.com/jpol1/Leetcode_exercises/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/jpol1/Leetcode_exercises/tree/main/1345-jump-game-iv/) | Hard |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0100-same-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/jpol1/Leetcode_exercises/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0100-same-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/jpol1/Leetcode_exercises/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
