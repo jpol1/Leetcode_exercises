@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/jpol1/Leetcode_exercises/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1306-jump-game-iii](https://github.com/jpol1/Leetcode_exercises/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## Breadth-First Search
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/jpol1/Leetcode_exercises/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/0112-path-sum/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/jpol1/Leetcode_exercises/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1306-jump-game-iii](https://github.com/jpol1/Leetcode_exercises/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/jpol1/Leetcode_exercises/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/jpol1/Leetcode_exercises/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/jpol1/Leetcode_exercises/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
