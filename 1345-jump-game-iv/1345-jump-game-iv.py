@@ -17,15 +17,19 @@ class Solution:
 
             for i in range(level_counter):
                 idx = queue[i]
-                if idx < 0 or idx >= n or idx in visited:
+                if idx in visited:
                     continue
 
                 visited.add(idx)
                 if idx == n-1:
                     return length
                 else:
-                    queue.append(idx-1)
-                    queue.append(idx+1)
+                    if (idx-1 > 0):
+                        queue.append(idx-1)
+                    
+                    if (idx + 1 < n):
+                        queue.append(idx+1)
+
                     arr_extend = idx_val.get(arr[idx], None)
                     if arr != None:
                         queue.extend(arr_extend)
