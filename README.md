@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/jpol1/Leetcode_exercises/tree/main/0015-3sum/) | Medium |
 | [0048-rotate-image](https://github.com/jpol1/Leetcode_exercises/tree/main/0048-rotate-image/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jpol1/Leetcode_exercises/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jpol1/Leetcode_exercises/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/jpol1/Leetcode_exercises/tree/main/0015-3sum/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jpol1/Leetcode_exercises/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/jpol1/Leetcode_exercises/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/jpol1/Leetcode_exercises/tree/main/0015-3sum/) | Medium |
 | [0061-rotate-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0061-rotate-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jpol1/Leetcode_exercises/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1861-rotating-the-box](https://github.com/jpol1/Leetcode_exercises/tree/main/1861-rotating-the-box/) | Medium |
