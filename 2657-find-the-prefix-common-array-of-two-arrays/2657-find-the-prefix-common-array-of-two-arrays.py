@@ -1,6 +1,6 @@
 class Solution:
     def findThePrefixCommonArray(self, A: List[int], B: List[int]) -> List[int]:
-        C = [0]*len(A)
+        C = []
         seen = set()
         common = 0
 
@@ -15,5 +15,5 @@ class Solution:
             else:
                 seen.add(B[i])
 
-            C[i] = common
+            C.append(common)
         return C
