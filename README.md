@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/jpol1/Leetcode_exercises/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jpol1/Leetcode_exercises/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/jpol1/Leetcode_exercises/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jpol1/Leetcode_exercises/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jpol1/Leetcode_exercises/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/jpol1/Leetcode_exercises/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/jpol1/Leetcode_exercises/tree/main/3668-restore-finishing-order/) | Easy |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jpol1/Leetcode_exercises/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jpol1/Leetcode_exercises/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2942-find-words-containing-character](https://github.com/jpol1/Leetcode_exercises/tree/main/2942-find-words-containing-character/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jpol1/Leetcode_exercises/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3110-score-of-a-string](https://github.com/jpol1/Leetcode_exercises/tree/main/3110-score-of-a-string/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/jpol1/Leetcode_exercises/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/jpol1/Leetcode_exercises/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jpol1/Leetcode_exercises/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/jpol1/Leetcode_exercises/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2942-find-words-containing-character](https://github.com/jpol1/Leetcode_exercises/tree/main/2942-find-words-containing-character/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jpol1/Leetcode_exercises/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jpol1/Leetcode_exercises/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jpol1/Leetcode_exercises/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jpol1/Leetcode_exercises/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -90,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jpol1/Leetcode_exercises/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jpol1/Leetcode_exercises/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
