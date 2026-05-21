@@ -4,15 +4,15 @@ class Solution:
         longest_prefix = 0
 
         for num in arr1:
-            num_str = str(num)
-            for idx in range(1, len(num_str)+1):
-                prefixes.add(num_str[:idx])
+            while num and num not in prefixes:
+                prefixes.add(num)
+                num //= 10
+        
         
         for num in arr2:
-            num_str = str(num)
-            for idx in range(1, len(num_str)+1):
-                if num_str[:idx] in prefixes:
-                    if idx > longest_prefix:
-                        longest_prefix = idx
+            while num and num not in prefixes:
+                num //= 10
+            if num:
+                longest_prefix = max( len(str(num)), longest_prefix)
         
         return longest_prefix
