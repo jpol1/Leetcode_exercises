@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/jpol1/Leetcode_exercises/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/jpol1/Leetcode_exercises/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/jpol1/Leetcode_exercises/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/jpol1/Leetcode_exercises/tree/main/0048-rotate-image/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jpol1/Leetcode_exercises/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jpol1/Leetcode_exercises/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jpol1/Leetcode_exercises/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jpol1/Leetcode_exercises/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jpol1/Leetcode_exercises/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
