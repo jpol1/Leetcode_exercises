@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jpol1/Leetcode_exercises/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0396-rotate-function](https://github.com/jpol1/Leetcode_exercises/tree/main/0396-rotate-function/) | Medium |
 | [1306-jump-game-iii](https://github.com/jpol1/Leetcode_exercises/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/jpol1/Leetcode_exercises/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/jpol1/Leetcode_exercises/tree/main/1345-jump-game-iv/) | Hard |
 | [1389-create-target-array-in-the-given-order](https://github.com/jpol1/Leetcode_exercises/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/jpol1/Leetcode_exercises/tree/main/0015-3sum/) | Medium |
+| [1340-jump-game-v](https://github.com/jpol1/Leetcode_exercises/tree/main/1340-jump-game-v/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jpol1/Leetcode_exercises/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/jpol1/Leetcode_exercises/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jpol1/Leetcode_exercises/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0396-rotate-function](https://github.com/jpol1/Leetcode_exercises/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/jpol1/Leetcode_exercises/tree/main/0788-rotated-digits/) | Medium |
+| [1340-jump-game-v](https://github.com/jpol1/Leetcode_exercises/tree/main/1340-jump-game-v/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
