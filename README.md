@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/jpol1/Leetcode_exercises/tree/main/0796-rotate-string/) | Easy |
 | [1528-shuffle-string](https://github.com/jpol1/Leetcode_exercises/tree/main/1528-shuffle-string/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jpol1/Leetcode_exercises/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1871-jump-game-vii](https://github.com/jpol1/Leetcode_exercises/tree/main/1871-jump-game-vii/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/jpol1/Leetcode_exercises/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jpol1/Leetcode_exercises/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jpol1/Leetcode_exercises/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jpol1/Leetcode_exercises/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1871-jump-game-vii](https://github.com/jpol1/Leetcode_exercises/tree/main/1871-jump-game-vii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1871-jump-game-vii](https://github.com/jpol1/Leetcode_exercises/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/jpol1/Leetcode_exercises/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/jpol1/Leetcode_exercises/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/jpol1/Leetcode_exercises/tree/main/0788-rotated-digits/) | Medium |
 | [1340-jump-game-v](https://github.com/jpol1/Leetcode_exercises/tree/main/1340-jump-game-v/) | Hard |
+| [1871-jump-game-vii](https://github.com/jpol1/Leetcode_exercises/tree/main/1871-jump-game-vii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
