@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/jpol1/Leetcode_exercises/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/jpol1/Leetcode_exercises/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/jpol1/Leetcode_exercises/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/jpol1/Leetcode_exercises/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/jpol1/Leetcode_exercises/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/jpol1/Leetcode_exercises/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/jpol1/Leetcode_exercises/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/jpol1/Leetcode_exercises/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/jpol1/Leetcode_exercises/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jpol1/Leetcode_exercises/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/jpol1/Leetcode_exercises/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/jpol1/Leetcode_exercises/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/jpol1/Leetcode_exercises/tree/main/0617-merge-two-binary-trees/) | Easy |
