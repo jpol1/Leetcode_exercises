@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jpol1/Leetcode_exercises/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0621-task-scheduler](https://github.com/jpol1/Leetcode_exercises/tree/main/0621-task-scheduler/) | Medium |
 | [1345-jump-game-iv](https://github.com/jpol1/Leetcode_exercises/tree/main/1345-jump-game-iv/) | Hard |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jpol1/Leetcode_exercises/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2540-minimum-common-value](https://github.com/jpol1/Leetcode_exercises/tree/main/2540-minimum-common-value/) | Easy |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jpol1/Leetcode_exercises/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0396-rotate-function](https://github.com/jpol1/Leetcode_exercises/tree/main/0396-rotate-function/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/jpol1/Leetcode_exercises/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0621-task-scheduler](https://github.com/jpol1/Leetcode_exercises/tree/main/0621-task-scheduler/) | Medium |
 | [1046-last-stone-weight](https://github.com/jpol1/Leetcode_exercises/tree/main/1046-last-stone-weight/) | Easy |
 | [1306-jump-game-iii](https://github.com/jpol1/Leetcode_exercises/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/jpol1/Leetcode_exercises/tree/main/1340-jump-game-v/) | Hard |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/jpol1/Leetcode_exercises/tree/main/0015-3sum/) | Medium |
+| [0621-task-scheduler](https://github.com/jpol1/Leetcode_exercises/tree/main/0621-task-scheduler/) | Medium |
 | [1340-jump-game-v](https://github.com/jpol1/Leetcode_exercises/tree/main/1340-jump-game-v/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jpol1/Leetcode_exercises/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -223,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/jpol1/Leetcode_exercises/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jpol1/Leetcode_exercises/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0621-task-scheduler](https://github.com/jpol1/Leetcode_exercises/tree/main/0621-task-scheduler/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jpol1/Leetcode_exercises/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -233,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/jpol1/Leetcode_exercises/tree/main/0621-task-scheduler/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jpol1/Leetcode_exercises/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/jpol1/Leetcode_exercises/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Counting Sort
@@ -290,5 +295,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/jpol1/Leetcode_exercises/tree/main/0621-task-scheduler/) | Medium |
 | [1046-last-stone-weight](https://github.com/jpol1/Leetcode_exercises/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->
