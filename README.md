@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jpol1/Leetcode_exercises/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2126-destroying-asteroids](https://github.com/jpol1/Leetcode_exercises/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jpol1/Leetcode_exercises/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jpol1/Leetcode_exercises/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2540-minimum-common-value](https://github.com/jpol1/Leetcode_exercises/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/jpol1/Leetcode_exercises/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jpol1/Leetcode_exercises/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2126-destroying-asteroids](https://github.com/jpol1/Leetcode_exercises/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jpol1/Leetcode_exercises/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/jpol1/Leetcode_exercises/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/jpol1/Leetcode_exercises/tree/main/0621-task-scheduler/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jpol1/Leetcode_exercises/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2126-destroying-asteroids](https://github.com/jpol1/Leetcode_exercises/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jpol1/Leetcode_exercises/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
