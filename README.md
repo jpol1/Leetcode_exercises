@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jpol1/Leetcode_exercises/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jpol1/Leetcode_exercises/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3668-restore-finishing-order](https://github.com/jpol1/Leetcode_exercises/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Trie
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/jpol1/Leetcode_exercises/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jpol1/Leetcode_exercises/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/jpol1/Leetcode_exercises/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jpol1/Leetcode_exercises/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2126-destroying-asteroids](https://github.com/jpol1/Leetcode_exercises/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jpol1/Leetcode_exercises/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/jpol1/Leetcode_exercises/tree/main/1861-rotating-the-box/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/jpol1/Leetcode_exercises/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2540-minimum-common-value](https://github.com/jpol1/Leetcode_exercises/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jpol1/Leetcode_exercises/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [2540-minimum-common-value](https://github.com/jpol1/Leetcode_exercises/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
