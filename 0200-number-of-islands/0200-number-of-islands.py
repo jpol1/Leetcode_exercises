@@ -1,6 +1,4 @@
 def dfs(arr: List[List[int]], idx: tuple):
-    #O(n*m) bo może przejść po całej tablicy. ALE przechodzi max raz po każdym bo po dodaniu go na stos
-    #zmienia wartość pod jego indeksem na 0.
     n = len(arr)
     m = len(arr[0])
     stack = [idx]
@@ -32,11 +30,10 @@ class Solution:
         n = len(grid)
         m = len(grid[0])
         
-        #Theta(n*m)
         for row in range(n):
             for col in range(m):
                 if grid[row][col] == "1":
-                    dfs(grid, (row, col) ) #O(n*m)
+                    dfs(grid, (row, col) )
                     counter += 1
             
         return counter
