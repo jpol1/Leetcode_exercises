@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jpol1/Leetcode_exercises/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/jpol1/Leetcode_exercises/tree/main/3516-find-closest-person/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/jpol1/Leetcode_exercises/tree/main/0788-rotated-digits/) | Medium |
 | [1340-jump-game-v](https://github.com/jpol1/Leetcode_exercises/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/jpol1/Leetcode_exercises/tree/main/1871-jump-game-vii/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/jpol1/Leetcode_exercises/tree/main/1534-count-good-triplets/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
