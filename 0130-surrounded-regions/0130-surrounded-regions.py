@@ -52,5 +52,3 @@ class Solution:
             for col in range(m):
                 if board[row][col] == 'O' and (row, col) not in visited:
                     visited.update(dfs(board, (row, col)))
-                    
-        return board
