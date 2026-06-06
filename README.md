@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0178-rank-scores](https://github.com/jpol1/Leetcode_exercises/tree/main/0178-rank-scores/) | Medium |
 | [0182-duplicate-emails](https://github.com/jpol1/Leetcode_exercises/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/jpol1/Leetcode_exercises/tree/main/0183-customers-who-never-order/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/jpol1/Leetcode_exercises/tree/main/0511-game-play-analysis-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
