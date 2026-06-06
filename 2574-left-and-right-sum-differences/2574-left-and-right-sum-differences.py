@@ -4,7 +4,8 @@ class Solution:
         right_sum = sum(nums)
         left_sum = 0
         for idx in range(len(nums)):
-            right_sum -= nums[idx]
+            tmp = nums[idx]
+            right_sum -= tmp
             res.append(abs(right_sum-left_sum))
-            left_sum += nums[idx]
+            left_sum += tmp
         return res
