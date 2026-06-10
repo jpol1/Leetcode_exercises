@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/jpol1/Leetcode_exercises/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/jpol1/Leetcode_exercises/tree/main/0595-big-countries/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/jpol1/Leetcode_exercises/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
+| [1148-article-views-i](https://github.com/jpol1/Leetcode_exercises/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/jpol1/Leetcode_exercises/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
