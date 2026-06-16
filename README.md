@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jpol1/Leetcode_exercises/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/jpol1/Leetcode_exercises/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/jpol1/Leetcode_exercises/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/jpol1/Leetcode_exercises/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jpol1/Leetcode_exercises/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jpol1/Leetcode_exercises/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/jpol1/Leetcode_exercises/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/jpol1/Leetcode_exercises/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Depth-First Search
