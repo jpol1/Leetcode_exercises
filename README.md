@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/jpol1/Leetcode_exercises/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/jpol1/Leetcode_exercises/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/jpol1/Leetcode_exercises/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/jpol1/Leetcode_exercises/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jpol1/Leetcode_exercises/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/jpol1/Leetcode_exercises/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/jpol1/Leetcode_exercises/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/jpol1/Leetcode_exercises/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/jpol1/Leetcode_exercises/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jpol1/Leetcode_exercises/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jpol1/Leetcode_exercises/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jpol1/Leetcode_exercises/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/jpol1/Leetcode_exercises/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [2540-minimum-common-value](https://github.com/jpol1/Leetcode_exercises/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jpol1/Leetcode_exercises/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
