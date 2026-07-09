@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jpol1/Leetcode_exercises/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jpol1/Leetcode_exercises/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/jpol1/Leetcode_exercises/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/jpol1/Leetcode_exercises/tree/main/3668-restore-finishing-order/) | Easy |
 ## String
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jpol1/Leetcode_exercises/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jpol1/Leetcode_exercises/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jpol1/Leetcode_exercises/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jpol1/Leetcode_exercises/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3668-restore-finishing-order](https://github.com/jpol1/Leetcode_exercises/tree/main/3668-restore-finishing-order/) | Easy |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/jpol1/Leetcode_exercises/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/jpol1/Leetcode_exercises/tree/main/0200-number-of-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jpol1/Leetcode_exercises/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/jpol1/Leetcode_exercises/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [2540-minimum-common-value](https://github.com/jpol1/Leetcode_exercises/tree/main/2540-minimum-common-value/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jpol1/Leetcode_exercises/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Heap (Priority Queue)
@@ -376,4 +380,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/jpol1/Leetcode_exercises/tree/main/0621-task-scheduler/) | Medium |
 | [1046-last-stone-weight](https://github.com/jpol1/Leetcode_exercises/tree/main/1046-last-stone-weight/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
