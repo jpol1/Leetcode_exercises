@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2469-convert-the-temperature](https://github.com/jpol1/Leetcode_exercises/tree/main/2469-convert-the-temperature/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/jpol1/Leetcode_exercises/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/jpol1/Leetcode_exercises/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jpol1/Leetcode_exercises/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/jpol1/Leetcode_exercises/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jpol1/Leetcode_exercises/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jpol1/Leetcode_exercises/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jpol1/Leetcode_exercises/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2942-find-words-containing-character](https://github.com/jpol1/Leetcode_exercises/tree/main/2942-find-words-containing-character/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jpol1/Leetcode_exercises/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3110-score-of-a-string](https://github.com/jpol1/Leetcode_exercises/tree/main/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jpol1/Leetcode_exercises/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2126-destroying-asteroids](https://github.com/jpol1/Leetcode_exercises/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jpol1/Leetcode_exercises/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jpol1/Leetcode_exercises/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
