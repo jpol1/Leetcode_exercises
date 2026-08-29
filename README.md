@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jpol1/Leetcode_exercises/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/jpol1/Leetcode_exercises/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2942-find-words-containing-character](https://github.com/jpol1/Leetcode_exercises/tree/main/2942-find-words-containing-character/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jpol1/Leetcode_exercises/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jpol1/Leetcode_exercises/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jpol1/Leetcode_exercises/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jpol1/Leetcode_exercises/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/jpol1/Leetcode_exercises/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/jpol1/Leetcode_exercises/tree/main/0200-number-of-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jpol1/Leetcode_exercises/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jpol1/Leetcode_exercises/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/jpol1/Leetcode_exercises/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jpol1/Leetcode_exercises/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/jpol1/Leetcode_exercises/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jpol1/Leetcode_exercises/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jpol1/Leetcode_exercises/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Linked List
