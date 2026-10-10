@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/jpol1/Leetcode_exercises/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0205-isomorphic-strings](https://github.com/jpol1/Leetcode_exercises/tree/main/0205-isomorphic-strings/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/jpol1/Leetcode_exercises/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0525-contiguous-array](https://github.com/jpol1/Leetcode_exercises/tree/main/0525-contiguous-array/) | Medium |
 | [0621-task-scheduler](https://github.com/jpol1/Leetcode_exercises/tree/main/0621-task-scheduler/) | Medium |
 | [1345-jump-game-iv](https://github.com/jpol1/Leetcode_exercises/tree/main/1345-jump-game-iv/) | Hard |
 | [1684-count-the-number-of-consistent-strings](https://github.com/jpol1/Leetcode_exercises/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/jpol1/Leetcode_exercises/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0396-rotate-function](https://github.com/jpol1/Leetcode_exercises/tree/main/0396-rotate-function/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/jpol1/Leetcode_exercises/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0525-contiguous-array](https://github.com/jpol1/Leetcode_exercises/tree/main/0525-contiguous-array/) | Medium |
 | [0621-task-scheduler](https://github.com/jpol1/Leetcode_exercises/tree/main/0621-task-scheduler/) | Medium |
 | [1046-last-stone-weight](https://github.com/jpol1/Leetcode_exercises/tree/main/1046-last-stone-weight/) | Easy |
 | [1306-jump-game-iii](https://github.com/jpol1/Leetcode_exercises/tree/main/1306-jump-game-iii/) | Medium |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0525-contiguous-array](https://github.com/jpol1/Leetcode_exercises/tree/main/0525-contiguous-array/) | Medium |
 | [1871-jump-game-vii](https://github.com/jpol1/Leetcode_exercises/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/jpol1/Leetcode_exercises/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/jpol1/Leetcode_exercises/tree/main/3903-smallest-stable-index-i/) | Easy |
