@@ -15,7 +15,7 @@ public:
                 }
             }
             else if(rmap.count(t[i])){
-                if (map[t[i]] != s[i] ) {
+                if (rmap[t[i]] != s[i] ) {
                     return false;
                 }
             }
