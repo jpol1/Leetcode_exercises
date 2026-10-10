@@ -27,6 +27,7 @@ public:
     }
 };
 
-// n - size of strings;
+// n - length of the strings
+// k - number of distinct characters
 // Time complexity: O(n)
-// Space complexity: //O(n)
+// Space complexity: O(k)
