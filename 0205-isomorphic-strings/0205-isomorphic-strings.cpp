@@ -1,29 +1,32 @@
-#include <map>
-#include <unordered_set>
+#include <unordered_map>
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        std::map<char, char> map, rmap;
+        std::unordered_map<char, char> map, rmap; //O(1)
 
-        if (s.size() != t.size()) {
+        if (s.size() != t.size()) { //O(1)
             return false;
         }
-        for (int i = 0; i < s.size(); i++) {
-            if (map.count(s[i])) {
-                if (map[s[i]] != t[i] ) {
-                    return false;
+        for (int i = 0; i < s.size(); i++) { //O(n)
+            if (map.count(s[i])) { //O(1)
+                if (map[s[i]] != t[i] ) { //O(1)
+                    return false; //O(1)
                 }
             }
-            else if(rmap.count(t[i])){
-                if (rmap[t[i]] != s[i] ) {
-                    return false;
+            else if(rmap.count(t[i])){ //O(1)
+                if (rmap[t[i]] != s[i] ) { //O(1)
+                    return false; //O(1)
                 }
             }
             else {
-                map[s[i]] = t[i];
-                rmap[t[i]] = s[i];
+                map[s[i]] = t[i];//O(1)
+                rmap[t[i]] = s[i];//O(1)
             }
         }
-        return true;
+        return true; //O(1)
     }
 };
+
+// n - size of strings;
+// Time complexity: O(n)
+// Space complexity: //O(n)
